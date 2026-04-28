@@ -1,5 +1,5 @@
 LEETCODE SOLUTION
-Problem: 175. Combine Two Tables
+Problem: 182. Duplicate entries
 Difficulty: Easy
 
 QUERY:

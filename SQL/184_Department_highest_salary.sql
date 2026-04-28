@@ -1,5 +1,5 @@
 LEETCODE SOLUTION
-Problem: 175. Combine Two Tables
+Problem: 184. Department highest salary
 Difficulty: Medium
 
 QUERY:
